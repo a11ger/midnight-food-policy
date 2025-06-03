@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景 -->
+    <rect width="1024" height="1024" fill="#4A148C"/>
+    
+    <!-- 月亮 -->
+    <circle cx="512" cy="412" r="200" fill="#FFF176"/>
+    <circle cx="562" cy="362" r="180" fill="#4A148C"/>
+    
+    <!-- 碗 -->
+    <path d="M312 512C312 412 412 362 512 362C612 362 712 412 712 512C712 612 612 662 512 662C412 662 312 612 312 512Z" fill="#E1BEE7"/>
+    <path d="M362 512C362 442 437 407 512 407C587 407 662 442 662 512C662 582 587 617 512 617C437 617 362 582 362 512Z" fill="#4A148C"/>
+    
+    <!-- 筷子 -->
+    <rect x="437" y="332" width="20" height="300" rx="10" transform="rotate(-30 437 332)" fill="#8E24AA"/>
+    <rect x="587" y="332" width="20" height="300" rx="10" transform="rotate(30 587 332)" fill="#8E24AA"/>
+    
+    <!-- 文字 -->
+    <text x="512" y="800" font-family="Arial" font-size="100" fill="white" text-anchor="middle">深夜食堂</text>
+</svg> 
